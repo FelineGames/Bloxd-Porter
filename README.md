@@ -1,8 +1,17 @@
-# Texture-Conversion-Engine
-This is also a Non-profit work that is near completed which utilizes "textures" folder from a Bedrock RP and converts all the Blocks &amp; Items 2D Texture Names to work on Bloxd
---- Simple UI --- Understandable CMD Prompt Interface
---- Easy to Use --- Keep your minecraft textures folder with the '.bat' and 'whitelist.txt'
---- Result --- Converts all the Minecraft 2D Textures names to work on Bloxd
+# Bloxd Pack Porter (Open-Source)
 
-[Open-Source] Users can contribute to modify and change the whitelist & Batch File.
-Also check for any malwares included if you do not trust me.
+## Purpose
+• This Porter ports Textures of a Minecraft Bedrock RP to work natively on Bloxd.
+
+• You Download the Latest Release, Run the batch and make sure to include whitelist.txt alongside it for it to work!
+
+## What's a Whitelist?
+• Whitelist decides which texture is whether ported or not, it contains all the arguments defining names to change.
+
+• You can make work of whitelist.txt so to add more entries that will get converted to Bloxd.io!
+
+•  An Example would be "netherite_sword.png=knight_sword.png" where the first element [e.g. netherite_sword.png] is the source and the second element [e.g. knight_sword.png] is the output
+
+• ".png" extension is required in order for the program to work.
+
+## Screenshots
