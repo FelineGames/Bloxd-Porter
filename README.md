@@ -15,3 +15,4 @@
 • ".png" extension is required in order for the program to work.
 
 ## Screenshots
+<img width="669" height="427" alt="image" src="https://github.com/user-attachments/assets/3bd17032-8bb6-4323-a84c-e9e209af9e87" />
