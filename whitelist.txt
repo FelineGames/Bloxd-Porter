@@ -1,0 +1,6 @@
+# format
+
+old_texture.png=new_texture.png
+source.png=output.png
+
+# default pre-made whitelist is in releases
